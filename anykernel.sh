@@ -16,7 +16,7 @@ supported.versions=10 - 12
 
 # shell variables
 block=/dev/block/bootdevice/by-name/boot;
-dtboblock=/dev/block/bootdevice/by-name/dtbo;
+#dtboblock=/dev/block/bootdevice/by-name/dtbo;
 is_slot_device=0;
 ramdisk_compression=auto;
 patch_vbmeta_flag=auto;
